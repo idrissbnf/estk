@@ -9,4 +9,4 @@ scikit-learn
 pyodbc
 openpyxl
 plotly
-
+pyodbc
